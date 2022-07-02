@@ -1,0 +1,12 @@
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice2\obj\Debug\Practice2.csproj.AssemblyReference.cache
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice2\obj\Debug\Practice2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice2\obj\Debug\Practice2.csproj.CoreCompileInputs.cache
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice2\bin\Debug\Practice2.exe.config
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice2\bin\Debug\Practice2.exe
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice2\bin\Debug\Practice2.pdb
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice2\bin\Debug\Practice.exe
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice2\bin\Debug\Practice.pdb
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice2\bin\Debug\Practice.exe.config
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice2\obj\Debug\Practice2.csproj.CopyComplete
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice2\obj\Debug\Practice2.exe
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice2\obj\Debug\Practice2.pdb

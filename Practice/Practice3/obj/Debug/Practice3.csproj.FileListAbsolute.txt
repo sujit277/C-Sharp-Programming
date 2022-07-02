@@ -1,0 +1,8 @@
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice3\bin\Debug\Practice3.exe.config
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice3\bin\Debug\Practice3.exe
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice3\bin\Debug\Practice3.pdb
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice3\obj\Debug\Practice3.csproj.AssemblyReference.cache
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice3\obj\Debug\Practice3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice3\obj\Debug\Practice3.csproj.CoreCompileInputs.cache
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice3\obj\Debug\Practice3.exe
+C:\Users\Sujitkumar_Verma\Documents\C#\Practice\Practice3\obj\Debug\Practice3.pdb
